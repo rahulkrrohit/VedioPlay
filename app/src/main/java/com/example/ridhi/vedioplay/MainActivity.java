@@ -16,7 +16,6 @@ public class MainActivity extends Activity {
     private String reviewImageLink;
     private MediaController mc;
 
-
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
